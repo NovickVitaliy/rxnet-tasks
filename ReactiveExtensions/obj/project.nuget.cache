@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s3qmBj1a2DYOpHKk85u8pS42Dlyi7uWfigUgw5QZgF3nel9v1tKK2eQsW4c6gpoFSQ09nRJU6Yb8qvRnGX0HnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\RiderProjects\\ReactiveExtensions\\ReactiveExtensions\\ReactiveExtensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\system.reactive\\6.0.1\\system.reactive.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

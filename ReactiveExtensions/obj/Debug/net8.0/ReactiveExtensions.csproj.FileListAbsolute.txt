@@ -1,0 +1,17 @@
+C:\Users\User\RiderProjects\ReactiveExtensions\ReactiveExtensions\bin\Debug\net8.0\ReactiveExtensions.exe
+C:\Users\User\RiderProjects\ReactiveExtensions\ReactiveExtensions\bin\Debug\net8.0\ReactiveExtensions.deps.json
+C:\Users\User\RiderProjects\ReactiveExtensions\ReactiveExtensions\bin\Debug\net8.0\ReactiveExtensions.runtimeconfig.json
+C:\Users\User\RiderProjects\ReactiveExtensions\ReactiveExtensions\bin\Debug\net8.0\ReactiveExtensions.dll
+C:\Users\User\RiderProjects\ReactiveExtensions\ReactiveExtensions\bin\Debug\net8.0\ReactiveExtensions.pdb
+C:\Users\User\RiderProjects\ReactiveExtensions\ReactiveExtensions\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\User\RiderProjects\ReactiveExtensions\ReactiveExtensions\obj\Debug\net8.0\ReactiveExtensions.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\ReactiveExtensions\ReactiveExtensions\obj\Debug\net8.0\ReactiveExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\ReactiveExtensions\ReactiveExtensions\obj\Debug\net8.0\ReactiveExtensions.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\ReactiveExtensions\ReactiveExtensions\obj\Debug\net8.0\ReactiveExtensions.AssemblyInfo.cs
+C:\Users\User\RiderProjects\ReactiveExtensions\ReactiveExtensions\obj\Debug\net8.0\ReactiveExtensions.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\ReactiveExtensions\ReactiveExtensions\obj\Debug\net8.0\Reactive.CA78D400.Up2Date
+C:\Users\User\RiderProjects\ReactiveExtensions\ReactiveExtensions\obj\Debug\net8.0\ReactiveExtensions.dll
+C:\Users\User\RiderProjects\ReactiveExtensions\ReactiveExtensions\obj\Debug\net8.0\refint\ReactiveExtensions.dll
+C:\Users\User\RiderProjects\ReactiveExtensions\ReactiveExtensions\obj\Debug\net8.0\ReactiveExtensions.pdb
+C:\Users\User\RiderProjects\ReactiveExtensions\ReactiveExtensions\obj\Debug\net8.0\ReactiveExtensions.genruntimeconfig.cache
+C:\Users\User\RiderProjects\ReactiveExtensions\ReactiveExtensions\obj\Debug\net8.0\ref\ReactiveExtensions.dll
