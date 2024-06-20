@@ -2,5 +2,8 @@
 
 
 using System.Reactive.Linq;
+using ReactiveExtensions.Task_3;
 
+ConcatenatedObservable concatenatedObservable = new ConcatenatedObservable();
 
+Console.ReadKey();
