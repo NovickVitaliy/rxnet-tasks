@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReactiveExtensions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1249820e856e81b6e96f062a57582d26c559b4d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReactiveExtensions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReactiveExtensions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
