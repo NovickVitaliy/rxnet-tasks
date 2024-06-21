@@ -1,13 +1,16 @@
 ﻿using ReactiveExtensions.Task5;
 using ReactiveExtensions.Task6;
+using ReactiveExtensions.Task7;
 
-HotObservable coldObservable = new HotObservable(10);
-await Task.Delay(1000);
-coldObservable.GetHotObservable()
-    .Subscribe(val => { Console.WriteLine($"Subscriber 1: {val}"); });
+BufferedObservable bufferedObservable = new BufferedObservable();
 
-await Task.Delay(2000);
-coldObservable.GetHotObservable()
-    .Subscribe(val => { Console.WriteLine($"Subscriber 2: {val}"); });
+bufferedObservable.ObservableWithWindow
+    .Subscribe(window => {
+        Console.WriteLine("New window");
+
+        window.Subscribe(Console.WriteLine, 
+            (err) => Console.WriteLine("Error on window"),
+            () => Console.WriteLine("Window completed"));
+    });
 
 Console.ReadKey();
