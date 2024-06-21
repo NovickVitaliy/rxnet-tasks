@@ -1,10 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using ReactiveExtensions.Task5;
 
-
-using System.Reactive.Linq;
-using ReactiveExtensions.Task_3;
-using ReactiveExtensions.Task4;
-
-TimedObservable timedObservable = new TimedObservable();
+ThrowableObserver throwableObserver = new ThrowableObserver();
 
 Console.ReadKey();
