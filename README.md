@@ -1,7 +1,7 @@
 # RX.NET Tasks for practice
 This is the tasks made by ChatGPT to learn and practice the RX.NET.
 
-### Task 1
+## Task 1
 **Objective**: Learn to create and subscribe to basic observables.  
 
 **Task**: Create an observable that emits integers from 0 to N within a specified interval.
@@ -9,7 +9,7 @@ Subscribe to this observable and print each emitted value to the console.
 
 **Key** Concepts: Observable.Create, Subscribe.
 
-### Task 2
+## Task 2
 **Objective**: Apply filtering and transformation operators.
 
 **Task**: Create an observable that emits integers from 1 to N within a specified interval. Use Where to filter out odd numbers and
@@ -25,7 +25,7 @@ Use Concat, Merge to combine them into a single observable and subscribe to prin
 
 **Key Concepts**: Concat, Merge.
 
-### Task 4
+## Task 4
 **Objective**: Work with time-based operators.
 
 **Task**: Create an observable that emits a value every second for 10 seconds.
@@ -34,7 +34,7 @@ Use Throttle to only emit values if no other values have been emitted for 2 seco
 **Key Concepts**: Interval, Throttle.
 
 
-### Task 5
+## Task 5
 **Objective**: Handle errors in observables.
 
 **Task**: Create an observable that emits integers from 1 to 10 but throws an exception when it reaches 5.
@@ -42,7 +42,7 @@ Use Throttle to only emit values if no other values have been emitted for 2 seco
 
 **Key Concepts**: Catch, OnErrorResumeNext.
 
-### Task 6
+## Task 6
 **Objective**: Understand the difference between hot and cold observables.
 
 **Task**: Create a cold observable that emits integers from 1 to 5.
@@ -50,7 +50,7 @@ Use Throttle to only emit values if no other values have been emitted for 2 seco
 
 **Key Concepts**: Cold Observable, Hot Observable, Publish, Connect.
 
-### Task 7
+## Task 7
 **Objective**: Use buffering and windowing to batch data.
 
 **Task**: Create an observable that emits a value every 200ms.
@@ -58,7 +58,7 @@ Use Throttle to only emit values if no other values have been emitted for 2 seco
 
 **Key Concepts**: Buffer, Window.
 
-### Task 8
+## Task 8
 **Objective**: Group emitted items based on a key.
 
 **Task**: Create an observable that emits random integers between 1 and 10.
@@ -66,7 +66,7 @@ Use Throttle to only emit values if no other values have been emitted for 2 seco
 
 **Key Concepts**: GroupBy.
 
-### Task 9
+## Task 9
 **Objective**: Combine the latest values from multiple observables.
 
 **Task**: Create two observables that emit integers every second and every 500ms, respectively.
@@ -74,7 +74,7 @@ Use Throttle to only emit values if no other values have been emitted for 2 seco
 
 **Key Concepts**: CombineLatest.
 
-### Task 10
+## Task 10
 **Objective**: Apply reactive programming to a real-time data scenario.
 
 **Task**: Create a class WeatherService that fetches temperature data every second (simulated with random values).
