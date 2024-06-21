@@ -3,7 +3,8 @@
 
 using System.Reactive.Linq;
 using ReactiveExtensions.Task_3;
+using ReactiveExtensions.Task4;
 
-ConcatenatedObservable concatenatedObservable = new ConcatenatedObservable();
+TimedObservable timedObservable = new TimedObservable();
 
 Console.ReadKey();
